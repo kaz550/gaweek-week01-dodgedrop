@@ -165,13 +165,13 @@ NOMINMAX
 
 実行ファイルと同じ階層に：
 
-
+```text
 assets/
 bgm.wav
 se_decide.wav
 se_back.wav
 se_hit.wav
-
+```
 
 ---
 
@@ -198,7 +198,7 @@ Audio/
 Render/
 assets/
 README.md
-'''
+```
 
 ---
 
