@@ -188,7 +188,7 @@ se_hit.wav
 
 # 📂 ディレクトリ構成
 
-
+```text
 src/
 Core/
 Scene/
@@ -198,7 +198,7 @@ Audio/
 Render/
 assets/
 README.md
-
+'''
 
 ---
 
