@@ -8,9 +8,9 @@ DxLib + C++ で制作した 2D回避ゲームです。
 
 # 📸 Screenshots
 
-| Title | Game | Result |
-|-------|------|--------|
-| (画像を貼る) | (画像を貼る) | (画像を貼る) |
+| Title   | Game    | Result  |
+| ------- | ------- | ------- |
+|  ![](assets/images/title.png) | ![](assets/images/game.png) | ![](assets/images/result.png) |
 
 ---
 
